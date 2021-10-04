@@ -1,5 +1,5 @@
 {
-  "name": "openid-client",
+  "name": "@anxing131/openid-client",
   "version": "4.9.0",
   "description": "OpenID Connect Relying Party (RP, Client) implementation for Node.js runtime, supports passportjs",
   "keywords": [

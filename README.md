@@ -1,4 +1,6 @@
 # openid-client
+> ⚠️ 此 repo 是为了兼容 casdoor 的 authorization_code 模式而进行的魔改项目.
+> openid-client 并不支持该改动，特此进行小魔改.
 
 openid-client is a server side [OpenID][openid-connect] Relying Party (RP, Client) implementation for
 Node.js runtime, supports [passport][passport-url].
